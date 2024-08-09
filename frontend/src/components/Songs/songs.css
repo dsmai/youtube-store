@@ -1,0 +1,9 @@
+.videos-container {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 2rem;
+    text-align: center;
+  }

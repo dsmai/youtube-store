@@ -1,0 +1,16 @@
+.videos {
+  padding: 1rem;
+  border-radius: 14px;
+  width: 350px;
+  height: 100px;
+  margin-bottom: 1.5rem;
+  display: grid;
+  align-items: center;
+}
+
+.videos-grid {
+  grid-area: img;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+}
